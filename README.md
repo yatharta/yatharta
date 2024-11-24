@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Abhishek Upamanyu</h1>
 <h3 align="center">A software developer from India</h3>
 
-- 🌱 I’m currently learning **Kivy and JavaScript frameworks**
+- 🌱 I’m currently learning **OpenAI and Asynchronous Programming**
 
-- 💬 Ask me about **Django, Flask, python**
+- 💬 Ask me about **python, flask, pandas and numpy**
 
 - 📫 How to reach me **abhishekupamanyu@outlook.com**
 
